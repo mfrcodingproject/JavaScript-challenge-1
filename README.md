@@ -6,10 +6,10 @@ In this repository you will find a selection of challenges to do with JavaScript
 Exercises about string methods, functions and parameters
 
 ### Homework
-- [strings-methods](./week-2/Homework/1-strings-methods) 
-- [functions](./week-2/Homework/2-functions) 
-- [functions-parameters](./week-2/Homework/3-functions-parameters) 
-- [functions-nested](./week-2/Homework/4-functions-nested) 
+- [strings-methods](./week-1/Homework/1-strings-methods/README.md) 
+- [functions](./week-1/Homework/2-functions/README.md) 
+- [functions-parameters](./week-1/Homework/3-functions-parameters/README.md)
+- [functions-nested](./week-1/Homework/4-functions-nested/README.md) 
 
 ### Extra
 - [Exercises about comparators, operators, conditional, array basics, loops](./week-1/Extra/)
